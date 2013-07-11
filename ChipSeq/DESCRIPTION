@@ -1,0 +1,13 @@
+Package: ChipSeq
+Type: Package
+Title:ChipData, chip-seq data
+Version: 1.0.0
+Date: 2011-07-22
+Author: Arnaud Droit
+Maintainer: Arnaud Droit <arnaud.droit@gmail.com>
+Description: Package of datasets and scripts to be used at the chip-chip and chip-seq course at BioConductor July, 2011. Here we make use of the ER and FOXA1 data.
+License: Artistic-2.0
+LazyLoad: yes
+Depends: R (>= 2.13.0), PICS, rGADEM, MotIV
+Enhance:  BSgenome.Hsapiens.UCSC.hg18
+Packaged: 2011-07-22 21:25:21 UTC; root

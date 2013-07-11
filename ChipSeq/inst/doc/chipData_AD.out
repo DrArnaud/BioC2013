@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{part.1}{I ChIP-Seq for Transcription Binding sites}{}% 2
+\BOOKMARK [1][-]{section.2}{Data Input}{part.1}% 3
+\BOOKMARK [1][-]{section.3}{Statistical Analysis}{part.1}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Genome segmentation}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Data smoothing and PICS processing:}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Detecting enriched regions:}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.4}{FDR calculation}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Visualization}{part.1}% 9
+\BOOKMARK [1][-]{section.5}{De Novo motif discovery:}{part.1}% 10
+\BOOKMARK [1][-]{section.6}{Annotation of enriched regions:}{part.1}% 11
+\BOOKMARK [0][-]{part.2}{II MNase-Seq and ChIP-Seq for Nucleosome positioning}{}% 12
+\BOOKMARK [1][-]{section.7}{Introduction}{part.2}% 13
+\BOOKMARK [1][-]{section.8}{Data Input}{part.2}% 14
+\BOOKMARK [1][-]{section.9}{Statistical Analysis}{part.2}% 15
+\BOOKMARK [2][-]{subsection.9.1}{Genome segmentation}{section.9}% 16
+\BOOKMARK [2][-]{subsection.9.2}{PING processing:}{section.9}% 17
+\BOOKMARK [2][-]{subsection.9.3}{Pose-processing PING results}{section.9}% 18
+\BOOKMARK [2][-]{subsection.9.4}{Export result}{section.9}% 19
+\BOOKMARK [2][-]{subsection.9.5}{Visualization}{section.9}% 20
